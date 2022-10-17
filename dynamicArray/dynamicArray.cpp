@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿//ALGO2 IS1 214A LAB02
+//Krystian Szabat
+//sk51114@zut.edu.pl
+
+
+#include <iostream>
 #include <string>
 
 using namespace std;
