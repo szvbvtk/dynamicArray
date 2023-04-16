@@ -127,10 +127,10 @@ int main()
     //char alphabet[] = { 'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','y','x','z' };
 
     DynamicArray<simple_object>* array1 = new DynamicArray<simple_object>();
-    //array1->add({ "Krystian", "Szabat", 21 });
-    //array1->change(0, { "Patrick", "Gendeck", 22 });
-    //array1->add({ "Paweł", "Rzepecki", 20 });
-    //array1->add({ "Maciej", "Jankowski", 16 });
+    //array1->add({ "K", "S", 21 });
+    //array1->change(0, { "P", "G", 22 });
+    //array1->add({ "P", "R", 20 });
+    //array1->add({ "M", "J", 16 });
     //cout << array1->str(so_str);
     //cout << array1->get(0);
     //cout << array1->get(1);
